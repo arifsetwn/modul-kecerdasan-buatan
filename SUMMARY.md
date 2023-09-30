@@ -4,7 +4,13 @@
 
 ## Kecerdasan Buatan
 
-* [Page 2](kecerdasan-buatan/page-2.md)
+* [Pendahuluan](kecerdasan-buatan/pendahuluan.md)
+* [Sejarah AI](kecerdasan-buatan/sejarah-ai.md)
+* [Komponen Utama AI](kecerdasan-buatan/komponen-utama-ai.md)
+* [Teknik dan Metodologi](kecerdasan-buatan/teknik-dan-metodologi.md)
+* [Penerapan AI dalam Kehidupan](kecerdasan-buatan/penerapan-ai-dalam-kehidupan.md)
+* [Etika dan Implikasi Sosial](kecerdasan-buatan/etika-dan-implikasi-sosial.md)
+* [Tantangan dan Masa Depan AI](kecerdasan-buatan/tantangan-dan-masa-depan-ai.md)
 
 ## Sistem Pakar
 
