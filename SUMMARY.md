@@ -29,7 +29,14 @@
 
 ## Logika Fuzzy
 
-* [Page 4](logika-fuzzy/page-4.md)
+* [Pendahuluan](logika-fuzzy/pendahuluan.md)
+* [Sejarah](logika-fuzzy/sejarah.md)
+* [Konsep Dasar Logika Fuzzy](logika-fuzzy/konsep-dasar-logika-fuzzy.md)
+* [Operasi pada Himpunan Fuzzy](logika-fuzzy/operasi-pada-himpunan-fuzzy.md)
+* [Sistem Inferensi Fuzzy](logika-fuzzy/sistem-inferensi-fuzzy.md)
+* [Model dan Algoritma](logika-fuzzy/model-dan-algoritma/README.md)
+  * [Mamdani](logika-fuzzy/model-dan-algoritma/mamdani.md)
+* [Page](logika-fuzzy/page.md)
 
 ## Algoritma Genetika
 
