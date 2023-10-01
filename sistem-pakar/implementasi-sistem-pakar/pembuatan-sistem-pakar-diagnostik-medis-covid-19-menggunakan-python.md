@@ -1,4 +1,4 @@
-# Implementasi Sistem Pakar
+# Pembuatan Sistem Pakar Diagnostik Medis Covid-19 Menggunakan Python
 
 #### Pembuatan Sistem Pakar Diagnostik Medis Covid-19 Menggunakan Python
 

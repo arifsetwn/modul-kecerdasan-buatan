@@ -1,5 +1,7 @@
 # Teknik dan Metodologi
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 **Machine Learning**
 
 Machine Learning (ML) adalah subbidang dari Artificial Intelligence yang fokus pada pengembangan algoritma yang memungkinkan komputer untuk belajar dari dan membuat keputusan atau prediksi berdasarkan data. ML mengeliminasi kebutuhan untuk pemrograman eksplisit dan memungkinkan model untuk menyesuaikan diri dengan data baru. Teknik ML meliputi regresi linier, klasifikasi, dan clustering. Algoritma seperti Random Forest, Support Vector Machines, dan Gradient Boosting adalah beberapa contoh algoritma ML yang umum digunakan.

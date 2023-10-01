@@ -15,3 +15,7 @@ Pada tahun 1980-an, Sistem Pakar mulai digunakan secara komersial. Perusahaan se
 Dalam beberapa dekade terakhir, Sistem Pakar telah mengalami evolusi signifikan, terutama dengan adanya kemajuan dalam teknologi komputasi dan data besar. Sistem Pakar modern tidak hanya menggunakan aturan berbasis logika tetapi juga teknik-teknik machine learning dan data mining. Selain itu, Sistem Pakar kini lebih terintegrasi dengan teknologi lain seperti Internet of Things (IoT) dan cloud computing, memungkinkan aplikasi yang lebih luas dan fleksibel.
 
 Meskipun demikian, tantangan etika dan keamanan, seperti bias dalam algoritma dan masalah privasi data, tetap menjadi perhatian dalam pengembangan Sistem Pakar. Oleh karena itu, penelitian terkini juga berfokus pada aspek-aspek ini untuk memastikan bahwa Sistem Pakar dapat digunakan secara aman dan adil.
+
+**Tokoh-tokoh Penting**
+
+Beberapa tokoh telah memberikan kontribusi signifikan dalam perkembangan algoritma sistem pakar. Edward Feigenbaum, sering disebut sebagai "Bapak Sistem Pakar," adalah salah satu tokoh utama dalam bidang ini. Selain itu, John McCarthy, yang memperkenalkan istilah "kecerdasan buatan," juga memberikan kontribusi penting dalam pengembangan algoritma dan metodologi sistem pakar. Marvin Minsky, salah satu pendiri laboratorium AI di MIT, juga memberikan kontribusi teoretis dan praktis yang signifikan.

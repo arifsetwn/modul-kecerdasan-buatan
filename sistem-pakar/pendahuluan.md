@@ -1,5 +1,7 @@
 # Pendahuluan
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 **Definisi Sistem Pakar**
 
 Sistem Pakar merupakan salah satu subbidang dalam Artificial Intelligence (AI) yang berfokus pada simulasi keahlian manusia dalam suatu domain atau bidang spesifik. Sistem ini dirancang untuk menyelesaikan masalah kompleks dengan menggunakan pengetahuan yang telah dikodifikasi dari seorang atau beberapa ahli dalam bidang tersebut. Dengan kata lain, Sistem Pakar berfungsi sebagai perangkat lunak yang dapat memberikan solusi atau rekomendasi dengan tingkat keahlian yang setara dengan ahli manusia.

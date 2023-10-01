@@ -17,11 +17,14 @@
 * [Pendahuluan](sistem-pakar/pendahuluan.md)
 * [Sejarah](sistem-pakar/sejarah.md)
 * [Komponen Sistem Pakar](sistem-pakar/komponen-sistem-pakar.md)
-* [Teknik Inferensi](sistem-pakar/teknik-inferensi.md)
+* [Teknik Inferensi](sistem-pakar/teknik-inferensi/README.md)
+  * [Studi Kasus: Sistem Diagnostik Medis](sistem-pakar/teknik-inferensi/studi-kasus-sistem-diagnostik-medis.md)
 * [Metodologi Pembuatan](sistem-pakar/metodologi-pembuatan.md)
 * [Kelebihan dan Keterbatasan](sistem-pakar/kelebihan-dan-keterbatasan.md)
 * [Studi Kasus](sistem-pakar/studi-kasus.md)
-* [Implementasi Sistem Pakar](sistem-pakar/implementasi-sistem-pakar.md)
+* [Implementasi Sistem Pakar](sistem-pakar/implementasi-sistem-pakar/README.md)
+  * [Forward chaining dan backward chaining](sistem-pakar/implementasi-sistem-pakar/forward-chaining-dan-backward-chaining.md)
+  * [Pembuatan Sistem Pakar Diagnostik Medis Covid-19 Menggunakan Python](sistem-pakar/implementasi-sistem-pakar/pembuatan-sistem-pakar-diagnostik-medis-covid-19-menggunakan-python.md)
 * [Kesimpulan](sistem-pakar/kesimpulan.md)
 
 ## Logika Fuzzy

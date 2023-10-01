@@ -1,5 +1,7 @@
 # Sejarah AI
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Turing Test</p></figcaption></figure>
+
 **Awal Mula dan Milestone**
 
 Artificial Intelligence (AI) memiliki sejarah yang panjang dan kompleks, dimulai dari tahun 1950-an dengan publikasi "Computing Machinery and Intelligence" oleh Alan Turing. Turing Test, yang diusulkan dalam publikasi ini, menjadi batu pijakan awal dalam memahami apakah mesin dapat berpikir. Milestone lain termasuk pembuatan program komputer pertama yang dapat bermain catur pada tahun 1951, dan Dartmouth Workshop pada tahun 1956 yang secara resmi memulai bidang AI sebagai disiplin akademis.
