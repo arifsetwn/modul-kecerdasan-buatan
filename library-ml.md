@@ -1,0 +1,5 @@
+# Library ML
+
+1. **Scikit-Learn:** Scikit-Learn adalah salah satu library machine learning paling populer untuk Python. Ini menyediakan alat untuk preprocessing data, pengurangan dimensi, pemilihan fitur, dan banyak lagi. Scikit-Learn dikenal karena antarmukanya yang mudah digunakan dan dokumentasi yang luas, menjadikannya pilihan yang baik untuk pemula dan praktisi berpengalaman.
+2. **TensorFlow:** TensorFlow, dikembangkan oleh Google, adalah framework yang lebih canggih yang memungkinkan pembuatan model deep learning yang kompleks. TensorFlow menawarkan fleksibilitas dan kontrol yang lebih besar, yang sangat berguna dalam penelitian dan pengembangan model yang lebih canggih.
+3. **PyTorch:** PyTorch, dikembangkan oleh Facebook, adalah framework lain yang populer untuk deep learning. Ini dikenal dengan sintaksnya yang intuitif dan pendekatannya yang berorientasi objek, yang memudahkan eksperimen dan prototyping cepat. PyTorch sangat populer di kalangan peneliti dan telah digunakan dalam banyak publikasi akademis.

@@ -41,3 +41,16 @@
 ## Algoritma Genetika
 
 * [Page 5](algoritma-genetika/page-5.md)
+
+## Machine Learning
+
+* [Pengantar](machine-learning/pengantar.md)
+
+***
+
+* [Penerapan ML](penerapan-ml.md)
+* [Jenis ML](jenis-ml.md)
+* [Proses ML](proses-ml.md)
+* [Algoritma Dasar](algoritma-dasar.md)
+* [Library ML](library-ml.md)
+* [Page 1](page-1.md)
